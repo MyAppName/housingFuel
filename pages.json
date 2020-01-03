@@ -1,0 +1,266 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	{
+		"path": "pages/index/start",
+		"style": {
+			"navigationBarTitleText": "北燃房山供热小程序"
+		}
+	},
+	{
+		"path": "pages/home/pdf",
+		"style": {
+			"navigationBarTitleText": "北燃房山供热小程序"
+		}
+	},
+	{
+		"path": "pages/userRepair/Recorder",
+		"style": {
+			"navigationBarTitleText": "北燃房山供热小程序"
+		}
+	},
+	{
+		"path": "pages/partyBuild/selector",
+		"style": {
+			"navigationBarTitleText": "北燃房山供热小程序"
+		}
+	},
+	{
+		"path": "pages/partyBuild/Completion",
+		"style": {
+			"navigationBarTitleText": "北燃房山供热小程序"
+		}
+	},
+		{
+			"path": "pages/partyBuild/JQuiz",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/image",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/index/main",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/repairs",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/repairsList",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/bill/bill",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/bill/billDetail",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/payDetail",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/address/pickOtherAddress",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/address/addNewAddress",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/proposal/proposal",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/proposal/proposalPage",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/repair",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/repairList",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/security",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/userRepair/securityList",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/delegate/delegate",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/register/register",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workArea",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/pHome",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/viewMember/viewMember",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/allocation/allocation",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/member/mywork/mywork",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/mywork/mywork",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/viewMemberDetail",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/arrival",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/waiteValuate",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/accept",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/finish",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/company/leader/workOrderDetails/underRepair",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/checkPaymentDelail",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/viewHistory",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/payment",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/qr",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		},
+		{
+			"path": "pages/pay/webview",
+			"style": {
+				"navigationBarTitleText": "北燃房山供热小程序"
+			}
+		}
+		
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

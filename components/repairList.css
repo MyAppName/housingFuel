@@ -1,0 +1,95 @@
+.key {
+		font-size: 25upx;
+		color: #666666;
+	}
+
+	.value {
+		font-size: 25upx;
+		color: #333333;
+		margin-left: 13.88upx;
+	}
+
+	.content {
+		width: 100vw;
+		height: 100vh;
+	}
+
+	.content>view {
+		width: 666.66upx;
+		margin-left: 41.66upx;
+	}
+
+	.nav {
+		margin:10px 41.66upx;
+	}
+
+	.but {
+		height: 83.33upx;
+		background-color: #FF6F3C;
+		border-radius: 34.72upx;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		color: #FFFFFF;
+		margin-top: 27.77upx;
+		
+	}
+	.but>text{
+		font-size: 28upx
+	}
+
+	.but>image {
+		width: 27.77upx;
+		height: 27.77upx;
+		margin-right: 10upx;
+	}
+
+	.ul {
+		border: 1upx solid #FF6F3C;
+		border-radius: 6.94upx;
+		margin-top: 27.77upx;
+	}
+
+	.ul>view {
+		width: 611.11upx;
+		margin-left: 27.77upx;
+	}
+
+	.li1 {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.li1_r>text {
+		font-size: 25upx;
+		color: #ff9a3c;
+	}
+
+	.li5 {
+		height: 75upx;
+	}
+	.li6 {
+		height: 75upx;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: flex-end;
+
+	}
+	.submit {
+		font-size: 25upx;
+		color: #155263;
+		margin-right: 34.72upx;
+		margin-left: 6.94upx;
+	}
+	.detail {
+		width: 111.11upx;
+		height: 41.66upx;
+		background-color: #FF6F3C;
+		color: #FFFFFF;
+		font-size: 20upx;
+		line-height: 41.66upx;
+		text-align: center;
+	}

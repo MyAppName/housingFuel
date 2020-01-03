@@ -1,0 +1,1 @@
+<view><block wx:if="{{ispay==false}}"><web-view src="{{url}}">to</web-view></block><block wx:else><view>支付成功</view></block></view>

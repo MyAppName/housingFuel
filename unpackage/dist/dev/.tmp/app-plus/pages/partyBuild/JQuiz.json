@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "北燃房山供热小程序",
+  "usingComponents": {
+    "cmd-progress": "/components/cmd-progress/cmd-progress"
+  }
+}

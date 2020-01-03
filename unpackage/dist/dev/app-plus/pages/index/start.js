@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { height: 100vh; width:100vw; }\n.",[1],"content\x3ewx-image { height: 100%; width:100%; }\n",],undefined,{path:"./pages/index/start.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/start.wxml') } }));

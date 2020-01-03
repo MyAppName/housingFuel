@@ -1,0 +1,215 @@
+
+.content {
+		width: 100vw;
+		height: 100vh;
+		/* overflow: hidden; */
+}
+.sswiper-item{
+		 width: 750rpx;
+		 /* height: 502.77upx; */
+		 /* height: 302.77upx; */
+		 height: 100%;
+		 position: relative;
+		 overflow: hidden;
+}
+.sswiper-item>image{
+		 width: 100%;
+		 height: 100%;
+		 position: absolute;
+		 top: 0;
+		 left: 0;
+}
+.neirong{
+		 position: absolute;
+		 top: 0;
+		 left: 0;
+		 /* display: flex;
+		 flex-direction: column;
+		 justify-content: center; */
+}
+.neirong>text{
+		 font-size: 28rpx;
+}
+.top {
+		/* width: 750upx;
+		height: 502.77upx; */
+		background-color: #E5E5E5;
+		/* text-align: center; */
+		/* background-image: url("https://www.ccweb.xyz/vdata/2019101903392328409347.jpg"); */
+		background-repeat:no-repeat;
+		background-size: 100% 113%;
+		overflow-y: scroll;
+}
+.center {
+		width: 100%;
+		height: 30%;
+}
+.bottom {
+		width: 100%;
+		height: 55%;
+		/* text-align: center; */
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+}
+     /* 顶部 */
+     /* 中部 */
+.center0 {
+		width: 100%;
+		height: 50%;
+}
+.centerTitle {
+		width: 100%;
+		height: 30%;
+		line-height: 60rpx;
+		color: #666;
+		font-size: 25rpx;
+		margin-left: 20.83rpx;
+}
+.centerList {
+		width: 100%;
+		height: 70%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-flex-wrap: wrap;
+		    -ms-flex-wrap: wrap;
+		        flex-wrap: wrap;
+		-webkit-justify-content: space-around;
+		    -ms-flex-pack: distribute;
+		        justify-content: space-around;
+		/* overflow: hidden; */
+		margin-top: 13.88rpx;
+}
+.centerItem {
+		width: 30%;
+		height: 90%;
+		position: relative;
+		margin: 10rpx;
+}
+.centerItem text {
+		font-size: 25rpx;
+		color: white;
+}
+.centerItem>image {
+		width: 100%;
+		height: 100%;
+}
+.picText2 {
+		position: absolute;
+		top: 36%;
+		left: 28%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+}
+.picText {
+		position: absolute;
+		top: 34%;
+		left: 21%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+}
+.picText>image {
+		width: 34.72rpx;
+		height: 34.72rpx;
+		margin-right: 10rpx;
+}
+     /* 底部 */
+.bottom text{
+		font-size: 25rpx;
+}
+.bottomTitle {
+		width: 100%;
+		height: 16%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+}
+.bottomTitle>text {
+		color: #666666;
+}
+.bottomRoll {
+		width: 80%;
+		height: 16%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		margin-left: 75rpx;
+}
+.bottomRoll>image {
+		width: 34.72rpx;
+		height: 34.72rpx;
+}
+.bottomText {
+		width: 90vw !important;
+		/* min-height: 35vh; */
+		background-color: ghostwhite;
+		margin: 10px auto;
+}
+	
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "北燃房山供热小程序",
+  "usingComponents": {
+    "speed": "/components/qingqing-steps/uni-steps"
+  }
+}

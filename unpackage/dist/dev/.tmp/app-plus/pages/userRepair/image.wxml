@@ -1,0 +1,1 @@
+<view>qqq<block wx:if="{{imageList!=''}}"><web-view class="web" src="http://tlwx.reliantongbak.com/brfs/jsapi_s.php?openId=oqa1_1oTiBWjeWJmrrXnDZjVfOpM">报修</web-view></block></view>

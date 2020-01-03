@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+.line{
+	width: 100vw !important;
+	height: 1rpx;
+	background-color: #e5e5e5;
+	margin: 0 !important;
+}
+.company>.head{
+	font-size: 25rpx;
+	color: #155263;
+	padding:10px 41.66rpx;
+}
+.Line{
+	width: 750rpx;
+	height: 3rpx;
+	background-color: #E5E5E5;
+}
+.hide{
+	display: none;
+}
+.fontcolor{
+	font-size: 25rpx;
+	color: #155263;
+}
+.nav{
+	margin: 10px 41.66rpx !important;
+	color: #155263;
+}
+
+

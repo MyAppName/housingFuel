@@ -1,0 +1,119 @@
+.key {
+		font-size: 25rpx;
+		color: #666666;
+}
+.value {
+		font-size: 25rpx;
+		color: #333333;
+		margin-left: 13.88rpx;
+}
+.content {
+		width: 100vw;
+		height: 100vh;
+}
+.content>view {
+		width: 666.66rpx;
+		margin-left: 41.66rpx;
+}
+.nav {
+		margin:10px 41.66rpx;
+}
+.but {
+		height: 83.33rpx;
+		background-color: #FF6F3C;
+		border-radius: 34.72rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		color: #FFFFFF;
+		margin-top: 27.77rpx;
+}
+.but>text{
+		font-size: 28rpx
+}
+.but>image {
+		width: 27.77rpx;
+		height: 27.77rpx;
+		margin-right: 10rpx;
+}
+.ul {
+		border: 1rpx solid #FF6F3C;
+		border-radius: 6.94rpx;
+		margin-top: 27.77rpx;
+}
+.ul>view {
+		width: 611.11rpx;
+		margin-left: 27.77rpx;
+}
+.li1 {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+}
+.li1_r>text {
+		font-size: 25rpx;
+		color: #ff9a3c;
+}
+.li5 {
+		height: 75rpx;
+}
+.li6 {
+		height: 75rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		    -ms-flex-pack: end;
+		        justify-content: flex-end;
+}
+.submit {
+		font-size: 25rpx;
+		color: #155263;
+		margin-right: 34.72rpx;
+		margin-left: 6.94rpx;
+}
+.detail {
+		width: 111.11rpx;
+		height: 41.66rpx;
+		background-color: #FF6F3C;
+		color: #FFFFFF;
+		font-size: 20rpx;
+		line-height: 41.66rpx;
+		text-align: center;
+}
+
